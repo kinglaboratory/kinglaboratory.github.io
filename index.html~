@@ -18,7 +18,7 @@
   <meta property="og:locale" content="en_US" />
   <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"Home | King Lab @ UMaine","author":{"@type":"Person","name":"kinglaboratory"},"description":"The laboratory of Dr. Benjamin King at the University of Maine","url":"https://kinglaboratory.github.io/kinglab/"}</script>
 
-  <link rel="stylesheet" href="https://kinglaboratory.github.io/kinglab/css/main.css">
+  <link rel="stylesheet" href="https://kinglaboratory.github.io/kinglaboratory.github.io/main.css">
   
   <!-- Google Analytics -->
 
@@ -42,7 +42,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="https://kinglaboratory.github.io/kinglab/">King Lab @ UMaine</a>
+    <a class="site-title" href="https://kinglaboratory.github.io">King Lab @ UMaine</a>
 
     <nav class="site-nav">
       <span class="menu-icon">
